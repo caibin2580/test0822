@@ -8,7 +8,7 @@ public class HelloController {
 
     @RequestMapping("/hello")
     public String index() {
-        System.out.println("-------------0000000000000000");
-        return "hello world~~~~~";
+        System.out.println("-------------000");
+        return "hello world~~~~~123";
     }
 }
