@@ -1,13 +1,13 @@
-package com.yuanian.Demo_web;
+package com.yn.demo_sql;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoWebApplication {
+public class DemoSqlApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoWebApplication.class, args);
+		SpringApplication.run(DemoSqlApplication.class, args);
 	}
 
 }

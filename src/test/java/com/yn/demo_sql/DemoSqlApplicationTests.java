@@ -1,4 +1,4 @@
-package com.yuanian.Demo_web;
+package com.yn.demo_sql;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class DemoWebApplicationTests {
+public class DemoSqlApplicationTests {
 
 	@Test
 	public void contextLoads() {
